@@ -3,9 +3,13 @@ This file tests a 2 axis "gimbal" with a raspberry pi camera v1.3 and two sg90 s
 
 
 controls:
+
 up
+
 down
+
 left
+
 right
 
 
